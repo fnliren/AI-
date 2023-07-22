@@ -7,3 +7,5 @@
 然后尝试了在电脑上跑通了baseline，虽然是比较简单的步骤，但是最起码让我有了最基本的认识，了解了大概的上手方法。
 
 希望之后可以再接再厉吧。也感谢主办方的直播，一步一步教学还是非常贴心的。
+
+![`TMZQMCUEE))M2MDTA4X%5U](https://github.com/fnliren/AI-summercamp/assets/115678433/e4e6453c-0670-43e6-9643-bd7c0301701c)
